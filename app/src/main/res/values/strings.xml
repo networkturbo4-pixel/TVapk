@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OmniCast TV</string>
+    <string name="mode_selection_title">Selecciona el modo de este dispositivo</string>
+    <string name="mode_tv_button">Modo Televisor (Reproductor / Kiosk)</string>
+    <string name="mode_tv_desc">Convierte esta TV en una pantalla digital receptora con autoarranque y sin controles visibles.</string>
+    <string name="mode_controller_button">Modo Controlador (Móvil / Tablet)</string>
+    <string name="mode_controller_desc">Controla los televisores, enciéndelos por red, envía videos por enlace o desde tu galería.</string>
+    <string name="tv_waiting_video">Esperando señal de video…</string>
+    <string name="tv_ip_label">IP de este televisor:</string>
+    <string name="tv_name_default">Televisor Android</string>
+    <string name="btn_wake_tv">Prender TV (WoL)</string>
+    <string name="btn_send_url">Enviar Video (URL)</string>
+    <string name="btn_upload_video">Subir Video del Teléfono</string>
+    <string name="btn_loop_on">Bucle: Activado</string>
+    <string name="btn_loop_off">Bucle: Desactivado</string>
+</resources>
